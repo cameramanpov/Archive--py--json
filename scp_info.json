@@ -1,11 +1,23 @@
 {
-  "001": {
-    "definition": "SCP-001: Le Prototype - Description controversée et multiple sur SCP-001, en fonction des variantes.",
-    "rapports": []
-  },
-  "049": {
-    "definition": "SCP-049: Le Docteur - Un humanoïde en robe noire qui prétend être un médecin.",
-    "rapports": []
-  },
-  // Ajoute les autres SCPs ici...
+    "001": {
+        "definition": "Impossible de charger la description pour SCP-001."
+    },
+    "049": {
+        "definition": "SCP-049 est un individu connu sous le nom de 'Docteur'. SCP-049 se présente comme un médecin du Moyen Âge, mais il est capable de tuer des individus à distance."
+    },
+    "096": {
+        "definition": "SCP-096 est un humanoïde extrêmement dangereux qui devient furieux et violent si quelqu'un voit son visage, que ce soit en personne ou sur une photo."
+    },
+    "173": {
+        "definition": "SCP-173 est une statue qui se déplace extrêmement rapidement et est capable de tuer des personnes en leur brisant le cou. Elle reste immobile lorsqu'elle est observée directement."
+    },
+    "682": {
+        "definition": "SCP-682 est un reptile indestructible et extrêmement hostile. Il exprime une haine intense envers toute forme de vie."
+    },
+    "939": {
+        "definition": "SCP-939 est une espèce de prédateur carnivore qui imite les voix humaines pour attirer ses proies. SCP-939 est aveugle et se déplace uniquement par écholocation."
+    },
+    "500": {
+        "definition": "SCP-500 est un conteneur de pilules capables de guérir toute maladie ou blessure, même les conditions normalement incurables. Le conteneur est de taille moyenne et contient environ 47 pilules."
+    }
 }
