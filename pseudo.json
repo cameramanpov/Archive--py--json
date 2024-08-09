@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "username": "D-6545",
+            "grade": "Classe-D"
+        },
+        {
+            "username": "J-Solphege",
+            "grade": "Directeur de site"
+        },
+        {
+            "username": "thom.Anders",
+            "grade": "Scientifique"
+        },
+        {
+            "username": "Margaux",
+            "grade": "UT/MTF"
+        },
+        {
+            "username": "LNG-LMLT",
+            "grade": "O5"
+        }
+    ]
+}
