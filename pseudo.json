@@ -19,6 +19,10 @@
         {
             "username": "LNG-LMLT",
             "grade": "O5"
+        },
+        {
+            "username": "Tom",
+            "grade": "Chercheur"
         }
     ]
 }
