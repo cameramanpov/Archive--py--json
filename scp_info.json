@@ -1,0 +1,11 @@
+{
+  "001": {
+    "definition": "SCP-001: Le Prototype - Description controversée et multiple sur SCP-001, en fonction des variantes.",
+    "rapports": []
+  },
+  "049": {
+    "definition": "SCP-049: Le Docteur - Un humanoïde en robe noire qui prétend être un médecin.",
+    "rapports": []
+  },
+  // Ajoute les autres SCPs ici...
+}
